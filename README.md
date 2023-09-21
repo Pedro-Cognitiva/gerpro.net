@@ -1,6 +1,6 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Gerpro.net Olá, Bem vindo ao meu projeto de site.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image](https://github.com/Pedro-Cognitiva/gerpro.net/blob/main/Fotos/sitegerpro.png)
 
 ## Ferramentas utilizadas:
 
@@ -12,8 +12,8 @@
 
 ## Feito por:
 
-### Joana Santos
+### Pedro Paulo
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/pedro-paulo-193212255/
 
 ```
